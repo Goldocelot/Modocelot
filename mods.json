@@ -1092,7 +1092,7 @@
 	"mods" : [
 		{
 			"name": "playercoin-0.0.1.jar",
-			"downloadURL": "https://github.com/Goldocelot/Modocelot/tree/main/playercoin-0.0.1.jar",
+			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/main/playercoin-0.0.1.jar",
 			"sha1": "2b1911834a70596a919adf1a00b1d79396da13ee",
 			"size": 12849
 		}
