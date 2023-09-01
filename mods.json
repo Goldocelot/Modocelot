@@ -353,10 +353,6 @@
 			"fileID":4720718
 		},
 		{
-			"projectID":832658,
-			"fileID":4709589
-		},
-		{
 			"projectID":633823,
 			"fileID":4693105
 		},
@@ -1107,6 +1103,12 @@
 			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/main/playercoin-0.0.1.jar",
 			"sha1": "2b1911834a70596a919adf1a00b1d79396da13ee",
 			"size": 12849
+		},
+		{
+			"name": "duckyperiphs-1.20.1-1.3.1-forge.jar",
+			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/main/duckyperiphs-1.20.1-1.3.1-forge.jar",
+			"sha1": "7de9a81d81adbe4b454a57c8a3da930cd7ab1d97",
+			"size": 540838
 		}
 	]
 }
