@@ -1099,10 +1099,10 @@
 	],
 	"mods" : [
 		{
-			"name": "playercoin-0.0.1.jar",
-			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/main/playercoin-0.0.1.jar",
-			"sha1": "2b1911834a70596a919adf1a00b1d79396da13ee",
-			"size": 12849
+			"name": "playercoin-0.0.2.jar",
+			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/main/playercoin-0.0.2.jar",
+			"sha1": "e8a85991f67acaba3dc791bf5ebca058db1c1a75",
+			"size": 15960
 		},
 		{
 			"name": "duckyperiphs-1.20.1-1.3.1-forge.jar",
