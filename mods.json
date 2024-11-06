@@ -127,6 +127,106 @@
 		{
 			"name": "Searchables",
 			"versionId": "iEE85X0w"
+		},
+		{
+			"name": "Supplementaries",
+			"versionId": "d42pczAt"
+		},
+		{
+			"name": "YUNG's Better Dungeons",
+			"versionId": "65IL2kKI"
+		},
+		{
+			"name": "YUNG's Better Nether Fortresses",
+			"versionId": "dPuHAoU3"
+		},
+		{
+			"name": "YUNG's Better Mineshafts",
+			"versionId": "Go3nbneL"
+		},
+		{
+			"name": "YUNG's Better Ocean Monuments",
+			"versionId": "NWit9vEK"
+		},
+		{
+			"name": "BadOptimizations",
+			"versionId": "htKsmrXC"
+		},
+		{
+			"name": "Noisium",
+			"versionId": "nJBE6tif"
+		},
+		{
+			"name": "Visual Workbench",
+			"versionId": "e78502KA"
+		},
+		{
+			"name": "Let Me Despawn",
+			"versionId": "eud3ZueP"
+		},
+		{
+			"name": "Better Advancements",
+			"versionId": "FjTYILOi"
+		},
+		{
+			"name": "JourneyMap",
+			"versionId": "SICTh4y0"
+		},
+		{
+			"name": "YUNG's Better Strongholds",
+			"versionId": "Vq5mh4Ot"
+		},
+		{
+			"name": "spark",
+			"versionId": "jg1XqG66"
+		},
+		{
+			"name": "YUNG's Better Witch Huts",
+			"versionId": "AvedwcIe"
+		},
+		{
+			"name": "Dungeons and Taverns",
+			"versionId": "Dungeons and Taverns"
+		},
+		{
+			"name": "NetherPortalFix",
+			"versionId": "O09BGtgh"
+		},
+		{
+			"name": "YUNG's Better Jungle Temples",
+			"versionId": "PfQ7sCFj"
+		},
+		{
+			"name": "Terralith",
+			"versionId": "81gyNzd0"
+		},
+		{
+			"name": "YUNG's Better End Island",
+			"versionId": "IEU6pSYq"
+		},
+		{
+			"name": "Chipped",
+			"versionId": "eqVowbGc"
+		},
+		{
+			"name": "CraftPresence",
+			"versionId": "6xbUsZYl"
+		},
+		{
+			"name": "Polymorph",
+			"versionId": "3WDycUwh"
+		},
+		{
+			"name": "Towns and Towers",
+			"versionId": "MntMLupc"
+		},
+		{
+			"name": "YUNG's Better Desert Temples",
+			"versionId": "TPmwhutI"
+		},
+		{
+			"name": "YUNG's API",
+			"versionId": "ex8YYvxI"
 		}
 	]
 }
