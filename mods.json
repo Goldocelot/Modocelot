@@ -57,6 +57,10 @@
 			"versionId": "rjMlIoLr"
 		},
 		{
+			"name": "More Culling",
+			"versionId": "ryeuMvgK"
+		},
+		{
 			"name": "Just Enough Items",
 			"versionId": "TxS03dKM"
 		},
@@ -87,6 +91,30 @@
 		{
 			"name": "Mouse Tweaks",
 			"versionId": "9I21YYxf"
+		},
+		{
+			"name": "Clumps",
+			"versionId": "jo7lDoK4"
+		},
+		{
+			"name": "AmbientSounds",
+			"versionId": "GEq5Lkjz"
+		},
+		{
+			"name": "Shulker Box Tooltip",
+			"versionId": "4oxkavl4"
+		},
+		{
+			"name": "Enchantment Descriptions",
+			"versionId": "ev1Ql5aa"
+		},
+		{
+			"name": "Controlling",
+			"versionId": "GA84zcRW"
+		},
+		{
+			"name": "Distant Horizons",
+			"versionId": "pEvLEY5E"
 		}
 	]
 }
