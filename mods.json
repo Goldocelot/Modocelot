@@ -86,7 +86,7 @@
 		},
 		{
 			"name": "Cloth Config API",
-			"versionId": "uYoucpky"
+			"versionId": "izKINKFg"
 		},
 		{
 			"name": "Mouse Tweaks",
@@ -101,6 +101,10 @@
 			"versionId": "GEq5Lkjz"
 		},
 		{
+			"name": "CreativeCore",
+			"versionId": "YvlODebm"
+		},
+		{
 			"name": "Shulker Box Tooltip",
 			"versionId": "4oxkavl4"
 		},
@@ -109,8 +113,20 @@
 			"versionId": "ev1Ql5aa"
 		},
 		{
+			"name": "Prickle",
+			"versionId": "R9ZWDTuu"
+		},
+		{
+			"name": "Bookshelf",
+			"versionId": "QqntcTCS"
+		},
+		{
 			"name": "Controlling",
 			"versionId": "GA84zcRW"
+		},
+		{
+			"name": "Searchables",
+			"versionId": "iEE85X0w"
 		},
 		{
 			"name": "Distant Horizons",
