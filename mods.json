@@ -1,12 +1,56 @@
 {
 	"modrinthMods": [
 		{
+			"name": "Premier Pain mod",
+			"versionId": "4nQU2RCQ"
+		},
+		{
 			"name": "Embeddium",
 			"versionId": "MphSqDWg"
 		},
 		{
 			"name": "EntityCulling",
 			"versionId": "aQk7X2Um"
-		}
+		},
+		{
+			"name": "FerriteCore",
+			"versionId": "CnpoQxCx"
+		},
+		{
+			"name": "FerriteCore",
+			"versionId": "CnpoQxCx"
+		},
+		{
+			"name": "ImmediatelyFast",
+			"versionId": "M5MRuabk"
+		},
+		{
+			"name": "ModernFix",
+			"versionId": "QVe1LGQD"
+		},
+		{
+			"name": "[ETF] Entity Texture Features",
+			"versionId": "9jUVosnb"
+		},
+		{
+			"name": "AppleSkin",
+			"versionId": "oy4bhPTN"
+		},
+		{
+			"name": "Not Enough Animations",
+			"versionId": "kH90gWlm"
+		},
+		{
+			"name": "Dynamic FPS",
+			"versionId": "cijcctgZ"
+		},,
+		{
+			"name": "[EMF] Entity Model Features",
+			"versionId": "gijBk6cS"
+		},,
+		{
+			"name": "Simple Voice Chat",
+			"versionId": "XRx9bF3j"
+		},
 	]
 }
