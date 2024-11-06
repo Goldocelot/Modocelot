@@ -1,15 +1,11 @@
 {
-	"curseFiles": [
-		
-	],
-	"mods" : [
-
-	],
 	"modrinthMods": [
 		{
+			"name": "Sodium",
 			"versionId": "zJZY6GYO"
 		},
 		{
+			"name": "EntityCulling",
 			"versionId": "aQk7X2Um"
 		}
 	]
