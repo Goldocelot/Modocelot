@@ -133,6 +133,10 @@
 			"versionId": "d42pczAt"
 		},
 		{
+			"name": "Moonlight Lib",
+			"versionId": "Brqi03X9"
+		},
+		{
 			"name": "YUNG's Better Dungeons",
 			"versionId": "65IL2kKI"
 		},
@@ -159,6 +163,10 @@
 		{
 			"name": "Visual Workbench",
 			"versionId": "e78502KA"
+		},
+		{
+			"name": "Puzzles Lib",
+			"versionId": "y2hCHcY2"
 		},
 		{
 			"name": "Let Me Despawn",
@@ -193,6 +201,10 @@
 			"versionId": "O09BGtgh"
 		},
 		{
+			"name": "Balm",
+			"versionId": "PRTR6jqR"
+		},
+		{
 			"name": "YUNG's Better Jungle Temples",
 			"versionId": "PfQ7sCFj"
 		},
@@ -209,8 +221,20 @@
 			"versionId": "eqVowbGc"
 		},
 		{
+			"name": "Athena",
+			"versionId": "zzovqkDA"
+		},
+		{
+			"name": "Resourceful Lib",
+			"versionId": "XjYVlVPE"
+		},
+		{
 			"name": "CraftPresence",
 			"versionId": "6xbUsZYl"
+		},
+		{
+			"name": "UniLib",
+			"versionId": "tpBPZMWu"
 		},
 		{
 			"name": "Polymorph",
@@ -219,6 +243,10 @@
 		{
 			"name": "Towns and Towers",
 			"versionId": "MntMLupc"
+		},
+		{
+			"name": "Cristel Lib",
+			"versionId": "oLp2OCg3"
 		},
 		{
 			"name": "YUNG's Better Desert Temples",
