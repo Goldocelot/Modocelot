@@ -631,6 +631,150 @@
 		{
 			"name": "Just Enough Breeding (JEBr)",
 			"versionId": "m2KsMKt3"
+		},
+		{
+			"name": "Formations Nether",
+			"versionId": "6DBJbZXK"
+		},
+		{
+			"name": "Macaw's Fences and Walls",
+			"versionId": "3Ve4L1DA"
+		},
+		{
+			"name": "Tiny Item Animations",
+			"versionId": "mSJPeo1D"
+		},
+		{
+			"name": "Serene Seasons",
+			"versionId": "b2S4BcbP"
+		},
+		{
+			"name": "MmmMmmMmmMmm",
+			"versionId": "cW10IFuy"
+		},
+		{
+			"name": "Enchanted Vertical Slabs",
+			"versionId": "TCMRFg8l"
+		},
+		{
+			"name": "Falling Leaves (NeoForge/Forge)",
+			"versionId": "BCoUwPez"
+		},
+		{
+			"name": "Distant Horizons",
+			"versionId": "pEvLEY5E"
+		},
+		{
+			"name": "Just Zoom",
+			"versionId": "L0TEgHcN"
+		},
+		{
+			"name": "Easy Shulker Boxes",
+			"versionId": "vqjLaJ4r"
+		},
+		{
+			"name": "Sit",
+			"versionId": "m7X4wswO"
+		},
+		{
+			"name": "Formations Overworld",
+			"versionId": "wBfHURmx"
+		},
+		{
+			"name": "Macaw's Furniture",
+			"versionId": "79UcQb4L"
+		},
+		{
+			"name": "Seamless Loading Screen",
+			"versionId": "lEeBiPTm"
+		},
+		{
+			"name": "RyoamicLights",
+			"versionId": "tApwsw9C"
+		},
+		{
+			"name": "Not Enough Recipe Book [NERB]",
+			"versionId": "bnjKtdpy"
+		},
+		{
+			"name": "Tidal Towns",
+			"versionId": "Mn5ZfVB7"
+		},
+		{
+			"name": "Mutant Monsters",
+			"versionId": "xVkzu4AZ"
+		},
+		{
+			"name": "Macaw's Windows",
+			"versionId": "wkCXAzIM"
+		},
+		{
+			"name": "Max Health Fix",
+			"versionId": "Oh3tUtEX"
+		},
+		{
+			"name": "Visual Overhaul",
+			"versionId": "TMOdQHDi"
+		},
+		{
+			"name": "More Armor Trims",
+			"versionId": "9Ewg7LhM"
+		},
+		{
+			"name": "Macaw's Doors",
+			"versionId": "VRGrIUSY"
+		},
+		{
+			"name": "Macaw's Roofs",
+			"versionId": "lTu5OeI0"
+		},
+		{
+			"name": "Jade Addons (NeoForge)",
+			"versionId": "qtFPwTFm"
+		},
+		{
+			"name": "Connected Glass",
+			"versionId": "aP5HhunF"
+		},
+		{
+			"name": "CraftTweaker",
+			"versionId": "2Um0c8md"
+		},
+		{
+			"name": "Visuality: Reforged",
+			"versionId": "9331fSfU"
+		}
+		{
+			"name": "Relics",
+			"versionId": "36A98mJG"
+		},
+		{
+			"name": "Relics: Artifacts Compat",
+			"versionId": "CvVDqCt1"
+		},
+		{
+			"name": "Immersive UI",
+			"versionId": "G28DKlmm"
+		},
+		{
+			"name": "ObsidianUI",
+			"versionId": "ILqin340"
+		},
+		{
+			"name": "Konkrete",
+			"versionId": "stJDU839"
+		},
+		{
+			"name": "Formations (Structure Library)",
+			"versionId": "7KzsjTQH"
+		},
+		{
+			"name": "MidnightLib",
+			"versionId": "YeePowOJ"
+		},
+		{
+			"name": "OctoLib",
+			"versionId": "1Yn9tKNv"
 		}
 	]
 }
