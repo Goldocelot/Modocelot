@@ -593,8 +593,20 @@
 			"versionId": "pSBrVnrI"
 		},
 		{
-			"name": "Iris Shaders",
-			"versionId": "W51fNmnQ"
+			"name": "Kotlin for Forge",
+			"versionId": "5Vlx7W4o"
+		},
+		{
+			"name": "SuperMartijn642's Core Lib",
+			"versionId": "tZ82tq1U"
+		},
+		{
+			"name": "[Let's Do] API",
+			"versionId": "6vICLqY9"
+		},
+		{
+			"name": "CoroUtil",
+			"versionId": "H2YXCYUY"
 		}
 	]
 }
