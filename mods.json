@@ -1019,6 +1019,22 @@
 		{
 			"name": "Scorched",
 			"versionId": "wbDwwj7V"
+		},	
+		{
+			"name": "playerAnimator",
+			"versionId": "pGvaW8eH"
+		},	
+		{
+			"name": "Fzzy Config",
+			"versionId": "74aEky0E"
+		},	
+		{
+			"name": "Valhelsia Core",
+			"versionId": "cttRekq9"
+		},	
+		{
+			"name": "Quad",
+			"versionId": "GQTxSTT0"
 		}
 	]
 }
