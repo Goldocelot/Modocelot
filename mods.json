@@ -403,6 +403,42 @@
 		{
 			"name": "Sounds",
 			"versionId": "ODhLWDdF"
+		},
+		{
+			"name": "Caelus API",
+			"versionId": "KsfI4QsR"
+		},
+		{
+			"name": "Geckolib",
+			"versionId": "qHj5WJHI"
+		},
+		{
+			"name": "Resourceful Config",
+			"versionId": "hOuZIT87"
+		},
+		{
+			"name": "Lithostitched",
+			"versionId": "wHZ4Skp8"
+		},
+		{
+			"name": "Accessories",
+			"versionId": "B0D7ZcFq"
+		},
+		{
+			"name": "Curios Compat Layer for Accessories",
+			"versionId": "ZSg9HAaK"
+		},
+		{
+			"name": "Collective",
+			"versionId": "nwmUrrgY"
+		},
+		{
+			"name": "M.R.U",
+			"versionId": "wbVgjNKg"
+		},
+		{
+			"name": "SuperMartijn642's Config Lib",
+			"versionId": "qKL9jM75"
 		}
 	]
 }
