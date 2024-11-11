@@ -9,10 +9,6 @@
 			"versionId": "CgUAJ9oU"
 		},
 		{
-			"name": "Embeddium",
-			"versionId": "MphSqDWg"
-		},
-		{
 			"name": "EntityCulling",
 			"versionId": "aQk7X2Um"
 		},
@@ -589,10 +585,6 @@
 			"versionId": "cfm6GZlI"
 		},
 		{
-			"name": "Radium",
-			"versionId": "pSBrVnrI"
-		},
-		{
 			"name": "Kotlin for Forge",
 			"versionId": "5Vlx7W4o"
 		},
@@ -607,6 +599,26 @@
 		{
 			"name": "CoroUtil",
 			"versionId": "H2YXCYUY"
+		},
+		{
+			"name": "Sodium",
+			"versionId": "r0Cvb6jf"
+		},
+		{
+			"name": "Iris Shaders",
+			"versionId": "W51fNmnQ"
+		},
+		{
+			"name": "Lithium",
+			"versionId": "BrMIoIMv"
+		},
+		{
+			"name": "Sodium Extra",
+			"versionId": "WwETq4lS"
+		},
+		{
+			"name": "Reese's Sodium Options",
+			"versionId": "orx6Yu4G"
 		}
 	]
 }
