@@ -587,6 +587,14 @@
 		{
 			"name": "Better Compatibility Checker",
 			"versionId": "cfm6GZlI"
+		},
+		{
+			"name": "Radium",
+			"versionId": "pSBrVnrI"
+		},
+		{
+			"name": "Iris Shaders",
+			"versionId": "W51fNmnQ"
 		}
 	]
 }
