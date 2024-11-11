@@ -787,6 +787,238 @@
 		{
 			"name": "Sparse Structures",
 			"versionId": "PRy5gl7E"
+		},	
+		{
+			"name": "Repurposed Structures - Farmer's Delight Compat",
+			"versionId": "PKPVpBYy"
+		},	
+		{
+			"name": "Repurposed Structures - Friends and Foes Compat",
+			"versionId": "EbNpV2X1"
+		},	
+		{
+			"name": "Horse Expert",
+			"versionId": "Li2vsMel"
+		},	
+		{
+			"name": "More Music Discs",
+			"versionId": "DUONjFPB"
+		},	
+		{
+			"name": "Inventory Essentials",
+			"versionId": "xlKgFkAZ"
+		},	
+		{
+			"name": "Hopo Better Underwater Ruins",
+			"versionId": "6216ulJB"
+		},	
+		{
+			"name": "cat_jam",
+			"versionId": "8lNHtIJg"
+		},	
+		{
+			"name": "Particle Core",
+			"versionId": "ovrp2pXe"
+		},	
+		{
+			"name": "Macaw's Bridges",
+			"versionId": "zLh4fIl5"
+		},	
+		{
+			"name": "Macaw's Trapdoors",
+			"versionId": "uxCeNtSS"
+		},	
+		{
+			"name": "Macaw's Paths and Pavings",
+			"versionId": "KpMKA33I"
+		},	
+		{
+			"name": "Friends & Foes (Forge/NeoForge)",
+			"versionId": "Ym4X3ctQ"
+		},	
+		{
+			"name": "Corpse",
+			"versionId": "k82jNJZz"
+		},	
+		{
+			"name": "Tool Trims",
+			"versionId": "ycM3IKPy"
+		},	
+		{
+			"name": "Icarus",
+			"versionId": "bpXsl4vn"
+		},	
+		{
+			"name": "Skeleton Horse Spawn",
+			"versionId": "dMlPqfgY"
+		},	
+		{
+			"name": "Zombie Horse Spawn",
+			"versionId": "FDcuqV5F"
+		},	
+		{
+			"name": "Repurposed Structures - Neoforge/Forge",
+			"versionId": "ACndbqOh"
+		},	
+		{
+			"name": "William Wythers' Expanded Ecosphere",
+			"versionId": "makr4BIJ"
+		},	
+		{
+			"name": "William Wythers' Overhauled Overworld",
+			"versionId": "5nUEDt1Z"
+		},	
+		{
+			"name": "Almost Unified",
+			"versionId": "pGS4mElv"
+		},	
+		{
+			"name": "Dark Paintings",
+			"versionId": "Dark Paintings"
+		},	
+		{
+			"name": "Macaw's Lights and Lamps",
+			"versionId": "ACLJCzT6"
+		},	
+		{
+			"name": "Hopo Better Ruined Portals",
+			"versionId": "vH0BWeDm"
+		},	
+		{
+			"name": "Cut Through",
+			"versionId": "5P5tLHSh"
+		},	
+		{
+			"name": "Display Case",
+			"versionId": "qkvX46Jg"
+		},	
+		{
+			"name": "Diagonal Windows",
+			"versionId": "3zZVTQDG"
+		},	
+		{
+			"name": "Gardens of the Dead",
+			"versionId": "q8gqrPYp"
+		},	
+		{
+			"name": "Tiny Skeletons",
+			"versionId": "QO99Qp79"
+		},	
+		{
+			"name": "Valhelsia Furniture",
+			"versionId": "21V79WjO"
+		},	
+		{
+			"name": "Iron's Spells 'n Spellbooks",
+			"versionId": "uUoaTkvx"
+		},	
+		{
+			"name": "Completionist's Index",
+			"versionId": "nx3WY9Ju"
+		},	
+		{
+			"name": "Macaw's Paintings",
+			"versionId": "El2YIAWc"
+		},	
+		{
+			"name": "Nether Depths Upgrade",
+			"versionId": "A9Ri2gYl"
+		},	
+		{
+			"name": "Fish On The Line",
+			"versionId": "waX5ghia"
+		},	
+		{
+			"name": "Ube's Delight",
+			"versionId": "ku2TvQBP"
+		},	
+		{
+			"name": "Chunk Loaders",
+			"versionId": "xC7Vc2qa"
+		},	
+		{
+			"name": "Enchantment Level Language Patch",
+			"versionId": "XymBEZgd"
+		},	
+		{
+			"name": "When Dungeons Arise: Seven Seas",
+			"versionId": "lk4OXt5t"
+		},	
+		{
+			"name": "Autochef's Delight",
+			"versionId": "khM31HWN"
+		},	
+		{
+			"name": "More Crafting Tables (MCT)",
+			"versionId": "btNg7Xzi"
+		},	
+		{
+			"name": "Effect Descriptions",
+			"versionId": "GzqnnBSS"
+		},	
+		{
+			"name": "Dramatic Doors",
+			"versionId": "y70qyPca"
+		},	
+		{
+			"name": "Dyed",
+			"versionId": "UspKhKeT"
+		},	
+		{
+			"name": "Joy of Painting",
+			"versionId": "7GkLlQ2E"
+		},	
+		{
+			"name": "Transmog",
+			"versionId": "dLueog0P"
+		},	
+		{
+			"name": "Crate Delight",
+			"versionId": "i8CLJZSj"
+		},	
+		{
+			"name": "Cuisine Delight",
+			"versionId": "5gYTOx9s"
+		},	
+		{
+			"name": "MapFrontiers",
+			"versionId": "LsJUO0Am"
+		},	
+		{
+			"name": "Hopo Better Mineshaft",
+			"versionId": "wpkicJx8"
+		},	
+		{
+			"name": "Seamless",
+			"versionId": "D6Qa77YH"
+		},	
+		{
+			"name": "More Delight",
+			"versionId": "jF3eUvE7"
+		},	
+		{
+			"name": "Additional Lanterns",
+			"versionId": "Una49aTZ"
+		},	
+		{
+			"name": "Diagonal Walls",
+			"versionId": "nJQ2U0Ru"
+		},	
+		{
+			"name": "Storage Delight",
+			"versionId": "s5F1SBrK"
+		},	
+		{
+			"name": "Storage Drawers",
+			"versionId": "TlPR935J"
+		},	
+		{
+			"name": "Luki's Grand Capitals",
+			"versionId": "EtZf2Gve"
+		},	
+		{
+			"name": "Scorched",
+			"versionId": "wbDwwj7V"
 		}
 	]
 }
