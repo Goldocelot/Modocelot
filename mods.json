@@ -787,6 +787,18 @@
 		{
 			"name": "OctoLib",
 			"versionId": "1Yn9tKNv"
+		},
+		{
+			"name": "Relics",
+			"versionId": "36A98mJG"
+		},
+		{
+			"name": "Relics: Artifacts Compat",
+			"versionId": "CvVDqCt1"
+		},
+		{
+			"name": "Immersive UI",
+			"versionId": "G28DKlmm"
 		}
 	]
 }
