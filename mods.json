@@ -1067,11 +1067,7 @@
 		{
 			"name": "FramedBlocks",
 			"versionId": "NYnjzJm1"
-		},	
-		{
-			"name": "Music Maker Mod",
-			"versionId": "ieqAIVVs"
-		},	
+		},		
 		{
 			"name": "Emojiful",
 			"versionId": "mn6IzXE5"
@@ -1210,7 +1206,31 @@
 		},	
 		{
 			"name": "WATERFrAMES: Multimedia Displays",
-			"versionId": "ZyDlVq8u"
+			"versionId": "xZWyO7K9"
+		},	
+		{
+			"name": "MonoLib",
+			"versionId": "ypv0tRYH"
+		},	
+		{
+			"name": "Modonomicon",
+			"versionId": "veWXBlw5"
+		},	
+		{
+			"name": "Knight Lib",
+			"versionId": "GJsGVNDo"
+		},	
+		{
+			"name": "Unnamed Framework",
+			"versionId": "dYhH7xxH"
+		},	
+		{
+			"name": "Mysterious Mountain Lib",
+			"versionId": "QCo1JpCt"
+		},	
+		{
+			"name": "SmartBrainLib",
+			"versionId": "1UePTS45"
 		}
 	]
 }
