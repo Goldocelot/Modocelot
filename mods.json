@@ -19,6 +19,21 @@
 			"name": "MineColonies",
 			"projectID": "245506",
 			"fileID": "5896400"
+		},
+		{
+			"name": "BlockUI",
+			"projectID": "522992",
+			"fileID": "5782223"
+		},
+		{	
+			"name": "Domum Ornamentum",
+			"projectID": "527361",
+			"fileID": "5764083"
+		},
+		{	
+			"name": "Structurize",
+			"projectID": "298744",
+			"fileID": "5853196"
 		}
 	],
 	"modrinthMods": [
