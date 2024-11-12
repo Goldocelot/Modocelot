@@ -1,4 +1,51 @@
 {
+	"curseFiles": [
+		{	
+			"name": "MineColonies",
+			"projectID": "245506",
+			"fileID": "5896400"
+		},
+		{	
+			"name": "Sophisticated Backpacks",
+			"projectID": "422301",
+			"fileID": "5881203"
+		},
+		{	
+			"name": "Sophisticated Core",
+			"projectID": "618298",
+			"fileID": "5897411"
+		},
+		{	
+			"name": "Sophisticated Storage",
+			"projectID": "619320",
+			"fileID": "5893354"
+		},
+		{	
+			"name": "BlockUI",
+			"projectID": "522992",
+			"fileID": "5782223"
+		},
+		{	
+			"name": "Domum Ornamentum",
+			"projectID": "527361",
+			"fileID": "5764083"
+		},
+		{	
+			"name": "Multi-Piston",
+			"projectID": "303278",
+			"fileID": "5783614"
+		},
+		{	
+			"name": "Structurize",
+			"projectID": "298744",
+			"fileID": "5853196"
+		},
+		{	
+			"name": "Structurize",
+			"projectID": "900364",
+			"fileID": "5653504"
+		}
+	],
 	"modrinthMods": [
 		{
 			"name": "Premier Pain mod",
