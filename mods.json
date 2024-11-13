@@ -59,6 +59,46 @@
 			"name": "Pam's HarvestCraft 2 - Food Extended",
 			"projectID": "402231",
 			"fileID": "5581646"
+		},
+				{	
+			"name": "Fast Async World Save[Forge/Fabric]",
+			"projectID": "951499",
+			"fileID": "5555482"
+		},
+		{	
+			"name": "Clickable advancements[Forge/Fabric]",
+			"projectID": "511733",
+			"fileID": "5551404"
+		},
+		{	
+			"name": "Client Crafting",
+			"projectID": "888790",
+			"fileID": "5549205"
+		},
+		{	
+			"name": "fix GPU memory leak[Forge/Fabric]",
+			"projectID": "882495",
+			"fileID": "5513549"
+		},
+		{	
+			"name": "Structure Essentials[Forge/Fabric]",
+			"projectID": "832882",
+			"fileID": "5512069"
+		},
+		{	
+			"name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+			"projectID": "582327",
+			"fileID": "5508954"
+		},
+		{	
+			"name": "Cupboard",
+			"projectID": "326652",
+			"fileID": "5570763"
+		},
+		{	
+			"name": "Chunk Sending[Forge/Fabric]",
+			"projectID": "831663",
+			"fileID": "5540768"
 		}
 	],
 	"modrinthMods": [
