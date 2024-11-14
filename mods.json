@@ -129,6 +129,11 @@
 			"name": "Chunk Sending[Forge/Fabric]",
 			"projectID": "831663",
 			"fileID": "5540768"
+		},
+		{	
+			"name": "Farsight [Forge/Neo]",
+			"projectID": "495693",
+			"fileID": "5664472"
 		}
 	],
 	"modrinthMods": [
