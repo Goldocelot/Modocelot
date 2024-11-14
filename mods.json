@@ -99,6 +99,21 @@
 			"name": "Login Protection[Forge/Fabric]",
 			"projectID": "358304",
 			"fileID": "5559306"
+		},
+		{	
+			"name": "Fast Async World Save[Forge/Fabric]",
+			"projectID": "951499",
+			"fileID": "5555482"
+		},
+		{	
+			"name": "Clickable advancements[Forge/Fabric]",
+			"projectID": "511733",
+			"fileID": "5551404"
+		},
+		{	
+			"name": "Client Crafting",
+			"projectID": "888790",
+			"fileID": "5549205"
 		}
 	],
 	"modrinthMods": [
