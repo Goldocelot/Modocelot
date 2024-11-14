@@ -69,6 +69,31 @@
 			"name": "Login Protection[Forge/Fabric]",
 			"projectID": "358304",
 			"fileID": "5559306"
+		},
+		{	
+			"name": "Recipe Essentials[Forge/Fabric]",
+			"projectID": "907856",
+			"fileID": "5745807"
+		},
+		{	
+			"name": "Connectivity[Forge/Fabric]",
+			"projectID": "470193",
+			"fileID": "5728632"
+		},
+		{	
+			"name": "Better Fps - Render Distance[Forge]",
+			"projectID": "551520",
+			"fileID": "5723250"
+		},
+		{	
+			"name": "Leaky - Item Lag Fix[Forge/Fabric]",
+			"projectID": "856906",
+			"fileID": "5575857"
+		},
+		{	
+			"name": "Dynamic View[Forge]",
+			"projectID": "366140",
+			"fileID": "5570957"
 		}
 	],
 	"modrinthMods": [
