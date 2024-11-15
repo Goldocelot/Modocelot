@@ -148,10 +148,6 @@
 			"versionId": "CgUAJ9oU"
 		},
 		{
-			"name": "Embeddium",
-			"versionId": "MphSqDWg"
-		},
-		{
 			"name": "EntityCulling",
 			"versionId": "aQk7X2Um"
 		},
@@ -614,10 +610,6 @@
 		{
 			"name": "ServerCore",
 			"versionId": "nlNqnwcA"
-		},
-		{
-			"name": "Embeddium (Rubidium) Extra",
-			"versionId": "Fs8n0cO7"
 		},
 		{
 			"name": "AI Improvements",
