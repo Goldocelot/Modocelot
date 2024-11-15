@@ -712,10 +712,6 @@
 			"versionId": "cfm6GZlI"
 		},
 		{
-			"name": "Radium",
-			"versionId": "pSBrVnrI"
-		},
-		{
 			"name": "Kotlin for Forge",
 			"versionId": "5Vlx7W4o"
 		},
@@ -1466,6 +1462,22 @@
 		{
 			"name": "[Let's Do] API",
 			"versionId": "6vICLqY9"
+		},
+		{
+			"name": "Sodium Extra",
+			"versionId": "WwETq4lS"
+		},
+		{
+			"name": "Sodium",
+			"versionId": "r0Cvb6jf"
+		},
+		{
+			"name": "Iris Shaders",
+			"versionId": "W51fNmnQ"
+		},
+		{
+			"name": "Lithium",
+			"versionId": "BrMIoIMv"
 		}
 	]
 }
