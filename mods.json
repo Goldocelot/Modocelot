@@ -3,8 +3,14 @@
 		{
 	        	"name": "[Let's Do] API",
 	        	"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-API-forge-1.3.0-beta-release-forge.jar",
-	        	"sha1": "c2f9e1bf53684265c4374063f2cd8c8f4d025de0",
+	        	"sha1": "7e8189180806180eae688f994e8224ffac99c4f4",
 	        	"size": 1368947
+		},
+		{
+	        	"name": "[Let's Do] Brewery - Farm&Charm Compat",
+	        	"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-brewery-forge-2.1.0.jar",
+	        	"sha1": "c2f9e1bf53684265c4374063f2cd8c8f4d025de0",
+	        	"size": 1430483
 		}
 	],
 	"curseFiles": [
@@ -1480,10 +1486,6 @@
 		{
 			"name": "Better Combat",
 			"versionId": "OBhRBkj9"
-		},
-		{
-			"name": "[Let's Do] Brewery - Farm&Charm Compat",
-			"versionId": "lMprnERJ"
 		}
 	]
 }
