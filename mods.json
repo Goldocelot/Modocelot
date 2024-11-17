@@ -1470,30 +1470,6 @@
 		{
 			"name": "Lithium",
 			"versionId": "KhdehJ6l"
-		},
-		{
-			"name": "Sodium Options API",
-			"versionId": "eryI8I4M"
-		},
-		{
-			"name": "Sodium Shadowy Path Blocks",
-			"versionId": "7iZ18zuB"
-		},
-		{
-			"name": "Sodium Dynamic Lights",
-			"versionId": "kSSa3FvO"
-		},
-		{
-			"name": "Sodium Leaf Culling",
-			"versionId": "63pMU2u6"
-		},
-		{
-			"name": "Sodium Extras",
-			"versionId": "iIWnKlUd"
-		},
-		{
-			"name": "Reese's Sodium Options",
-			"versionId": "zFB5NVXk"
 		}
 	]
 }
