@@ -1,25 +1,25 @@
 {
 	"mods": [
 		{	
-			"name": "letsdo-API-forge-1.3.0-beta-release-forge",
+			"name": "letsdo-API-forge-1.3.0-beta-release-forge.jar",
 			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-API-forge-1.3.0-beta-release-forge.jar",
 			"sha1": "590e25940b979bf0ed1d6455adc2b6591492b992",
 			"size": "1368947"
 		},
 		{	
-			"name": "letsdo-farm_and_charm-neoforge-1.2.0-beta-release",
+			"name": "letsdo-farm_and_charm-neoforge-1.2.0-beta-release.jar",
 			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-farm_and_charm-neoforge-1.2.0-beta-release.jar",
 			"sha1": "a873a05c89a0b4b14bbd5f3ec2c5fbc61459fb0d",
 			"size": "1867531"
 		},
 		{	
-			"name": "letsdo-vinery-neoforge-1.5.0-beta-release",
+			"name": "letsdo-vinery-neoforge-1.5.0-beta-release.jar",
 			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-vinery-neoforge-1.5.0-beta-release.jar",
 			"sha1": "097e2d77d096bd31349a52a5baeb47991fb3b744",
 			"size": "3297889"
 		},
 		{	
-			"name": "letsdo-brewery-forge-2.1.0",
+			"name": "letsdo-brewery-forge-2.1.0.jar",
 			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-brewery-forge-2.1.0.jar",
 			"sha1": "c2f9e1bf53684265c4374063f2cd8c8f4d025de0",
 			"size": "1430483"
