@@ -11,12 +11,6 @@
 			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-farm_and_charm-neoforge-1.2.0-beta-release.jar",
 			"sha1": "a873a05c89a0b4b14bbd5f3ec2c5fbc61459fb0d",
 			"size": "1867531"
-		},
-		{	
-			"name": "letsdo-vinery-neoforge-1.5.0-beta-release.jar",
-			"downloadURL": "https://github.com/Goldocelot/Modocelot/raw/refs/heads/main/letsdo-vinery-neoforge-1.5.0-beta-release.jar",
-			"sha1": "097e2d77d096bd31349a52a5baeb47991fb3b744",
-			"size": "3297889"
 		}
 	],
 	"curseFiles": [
