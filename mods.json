@@ -983,7 +983,7 @@
 		},	
 		{
 			"name": "William Wythers' Expanded Ecosphere",
-			"versionId": "makr4BIJ"
+			"versionId": "IfDkDfDd"
 		},	
 		{
 			"name": "William Wythers' Overhauled Overworld",
@@ -1500,6 +1500,10 @@
 		{
 			"name": "YetAnotherConfigLib (YACL)",
 			"versionId": "TC62OAaO"
+		},
+		{
+			"name": "Feature Recycler",
+			"versionId": "TsMXDaL7"
 		}
 	]
 }
