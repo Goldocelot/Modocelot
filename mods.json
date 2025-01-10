@@ -15,6 +15,11 @@
 	],
 	"curseFiles": [
 		{	
+			"name": "Fast Paintings",
+			"projectID": "883287",
+			"fileID": "5832111"
+		},
+		{	
 			"name": "Sophisticated Backpacks",
 			"projectID": "422301",
 			"fileID": "5927499"
@@ -678,10 +683,6 @@
 		{
 			"name": "Additional Structures",
 			"versionId": "2AMB4SVA"
-		},
-		{
-			"name": "Fast Paintings",
-			"versionId": "fln5Hr04"
 		},
 		{
 			"name": "Rechiseled",
